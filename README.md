@@ -1,5 +1,10 @@
 # vue-weather
 
+## Tutorial video
+Build a Weather App in VueJS | Vue Beginner Tutorial
+
+https://www.youtube.com/watch?v=JLc-hWsPTUY
+
 ## Project setup
 ```
 npm install
